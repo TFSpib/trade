@@ -1,0 +1,57 @@
+html {
+	font-family: Calibri;
+}
+body {
+	background-image: url(http://i.imgur.com/yCTjg8O.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+#header {
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	background-color: #0094FF;
+}
+#buy {
+	position: fixed;
+    top: 25%;
+    left: 0;
+    right: 0;
+    width: 500px;
+    height: 150px;
+    margin: auto;
+	
+	background-color: #C9FFCB;
+	font-size: 30px;
+	text-align: center;
+	position: absolute;
+}
+#sell {
+	position: fixed;
+    top: 45%;
+    left: 0;
+    right: 0;
+    width: 500px;
+    height: 150px;
+    margin: auto;
+	
+	background-color: #C9FFCB;
+	font-size: 30px;
+	text-align: center;
+	position: absolute;
+}
+#tradeoffer {
+	position: fixed;
+    top: 65%;
+    left: 0;
+    right: 0;
+    width: 500px;
+    height: 90px;
+    margin: auto;
+	text-align: center;
+	size: 30px;
+	background-color: #41CC51;
+}
